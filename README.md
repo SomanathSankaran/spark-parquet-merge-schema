@@ -1,0 +1,1 @@
+# spark-parquet-merge-schema
